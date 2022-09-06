@@ -38,7 +38,7 @@ To provision the environment:
 
 1. Open [Cloud Shell](https://cloud.google.com/shell/docs/launching-cloud-shell)
 
-2. Download the installation scripts
+2. Download the installation scripts. Change the SRC_REPO with your repository link.
     ```
     SRC_REPO=https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai.git
     LOCAL_DIR=provision
